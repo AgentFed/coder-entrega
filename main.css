@@ -1,0 +1,40 @@
+
+
+nav {
+    background-color: rgb(144, 204, 200); 
+    display: flex;
+}
+
+div {
+  border-width: 2px;
+  border-style:solid;
+  border-color: rgb(66, 64, 64);
+  border-radius: 8px;
+  padding: 1px;
+  justify-content: space-evenly;
+}
+
+  
+ul{
+  background-color: rgb(186, 191, 196);
+}
+
+
+ul {
+  border-width: 2px;
+  border-style:solid;
+  border-color: rgb(17, 17, 17);
+  border-radius: 8px;
+  
+}
+li {
+  border-width: 2px;
+  border-style:solid;
+  border-color: rgb(17, 17, 17);
+  border-radius: 8px;
+  background-color: rgb(161, 167, 168);
+}
+
+h1  {
+  text-decoration: rgb(49, 82, 82);
+}
